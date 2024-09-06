@@ -1,4 +1,4 @@
-# Approfondimento sulle reti neurali artificiali: Retrieval-Voice Based Conversion (RVC)
+# Approfondimento sulle reti neurali artificiali: Retrieval-based Voice Conversion (RVC)
 
 Il progetto, sviluppato per il corso di “Principi e Modelli della Percezione”, mira ad analizzare in profondità le principali RNA impiegate nella feature extraction per la Retrieval-Voice Based Conversion, una delle nuove tecnologie più avanzate e diffuse nel campo del voice cloning.
 
