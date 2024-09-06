@@ -6,7 +6,7 @@ Nel corso dell’analisi, verrà esaminato in dettaglio il funzionamento di ques
 
 A titolo esemplificativo, verranno inoltre presentate analisi a diversi livelli:
 
-* A un livello più tecnico e modulare, verrà valutata la percezione a basso livello della conversione vocale, confrontando l’output di due reti di feature extraction.
+* A un livello più tecnico e modulare, verrà valutata la percezione a basso livello della conversione vocale, confrontando l’output di due reti diverse di feature extraction.
 * A un livello più complesso, verrà analizzata la percezione di caratteristiche come l’emotività e l’espressività, esaminando come la conversione vocale cambi in base ai modelli di voce adottati.
 
 
