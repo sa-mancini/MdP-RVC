@@ -12,7 +12,9 @@ A titolo esemplificativo, verranno inoltre presentate due analisi a diversi live
 
 # Presentazione
 
-Link alla presentazione: 
+Link alla presentazione:
+* [PowerPoint](./RetiNeuraliRVC.pptx)
+* [Keynote](./RetiNeuraliRVC.key)
 
 # Risorse aggiuntive:
 * `/code` include il Jupyter Notebook contenente il codice utilizzato per generare gli esempi di output, ottenuto clonando Applio (una fork di RVC) su Google Colab;
