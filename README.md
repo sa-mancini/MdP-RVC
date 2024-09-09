@@ -16,7 +16,7 @@ Link alla presentazione:
 * [PowerPoint](./RetiNeuraliRVC.pptx)
 * [Keynote](./RetiNeuraliRVC.key)
 
-# Risorse aggiuntive:
+# Risorse aggiuntive
 * `/code` include il Jupyter Notebook contenente il codice utilizzato per generare gli esempi di output, ottenuto clonando Applio (una fork di RVC) su Google Colab;
 * `/outputs` raccoglie i file audio generati (da utilizzare qualora non fossero riproducibili direttamente dalla presentazione);
 * `/papers` contiene i file PDF degli articoli scientifici principali che hanno costituito la base per la ricerca.
